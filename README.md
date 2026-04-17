@@ -83,9 +83,11 @@ I also create educational content and help beginners understand web development 
     <td width="50%" align="center" valign="top">
       <img src="./images/card 2.webp" width="100%" alt="Creative Web Experience" />
       <br /><br />
-      <strong>Creative Web Experience</strong>
+      <strong>BookMark – Smart Book Store Platform</strong>
       <br />
-      <sub>A polished layout focused on clarity, branding, and premium feel.</sub>
+      <sub>
+      Modern book browsing experience with search and categories.
+      </sub>
     </td>
   </tr>
 </table>
