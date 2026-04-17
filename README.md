@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="./images/profile.png" width="210" alt="Mansour Montaser" style="border-radius: 34px; box-shadow: 0 0 40px rgba(14,165,233,0.25);" />
+<img src="./images/profile.png" width="400" alt="Mansour Montaser" style="border-radius: 34px; box-shadow: 0 0 40px rgba(14,165,233,0.25);" />
 
 <br /><br />
 
@@ -74,14 +74,14 @@ I also create educational content and help beginners understand web development 
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="./images/card1.webp" width="100%" alt="Portfolio Project" />
+      <img src="./images/card 1.webp" width="100%" alt="Portfolio Project" />
       <br /><br />
       <strong>Modern Portfolio Website</strong>
       <br />
       <sub>Responsive UI, smooth interaction, and strong visual hierarchy.</sub>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="./images/card2.webp" width="100%" alt="Creative Web Experience" />
+      <img src="./images/card 2.webp" width="100%" alt="Creative Web Experience" />
       <br /><br />
       <strong>Creative Web Experience</strong>
       <br />
