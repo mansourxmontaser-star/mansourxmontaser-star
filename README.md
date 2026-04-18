@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/mansour-montaser" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/mansour" target="_blank">
+  <a href="https://github.com/mansourxmontaser-star" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.behance.net/mansourmotaserx" target="_blank">
